@@ -1,0 +1,9 @@
+2
+rachel 50 5
+frankie 50 6
+5
+kobold 4 2
+skeleton 4 2
+zombie 20 2
+warlock 4 12
+ogre 20 7

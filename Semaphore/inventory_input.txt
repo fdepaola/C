@@ -1,0 +1,7 @@
+6
+cure_light_wounds 20
+resist_energy 3
+invisibility 0
+remove_curse 5
+bulls_strength 10
+heroism 26
